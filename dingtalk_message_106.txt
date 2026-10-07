@@ -1,0 +1,35 @@
+## 🏆 10月城代月度考核播报 · 数据截至 2026年10月6日
+
+口径：JBP业务结果（交易规模60%＋交易结构20%＋履约质量20%）＋餐饮过程＋零售过程，按城市分组排名定激励点位；月内第 6 天，新签/养活/医药/DAC 为月累计口径、月初天然偏低，高校板块数据源未包含暂不展示。
+
+**整商汇总**
+
+- 整商净激励 <font color="#b91c1c">**-48.8 万**</font>（奖励 2.2 万 ／ 罚款 -51.0 万）
+- <font color="#0f766e">**开化 +22,260 元**</font>（餐饮 18,056 ／ 零售 4,204）
+- <font color="#b91c1c">**衡阳合并经营 -289,139 元**</font>
+- <font color="#b91c1c">**上虞区 -221,311 元**</font>
+- <font color="#b91c1c">**警告 2 城**</font>：上虞区（零售过程）、常山（餐饮过程）
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/p1_summary.png)
+
+**冲激励的城市（6 城 · 当前零激励）**
+
+- <font color="#0f766e">📍 **武陵区**</font>｜业务结果排名 41.2%｜<font color="#ca8a04">必打淬火完成率 3.9%</font> ／ <font color="#ca8a04">餐饮新签完成率 4.8%</font>
+- <font color="#0f766e">📍 **嵊州**</font>｜业务结果排名 42.3%｜<font color="#ca8a04">零售新签养活完成率 7.1%</font> ／ <font color="#ca8a04">餐饮新签完成率 35.2%</font>
+- <font color="#0f766e">📍 **江山**</font>｜业务结果排名 54.0%｜<font color="#ca8a04">必打淬火完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 17.6%</font>
+- <font color="#0f766e">📍 **鼎城区**</font>｜业务结果排名 58.3%｜<font color="#ca8a04">餐饮新签完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 11.8%</font>
+- <font color="#0f766e">📍 **常山**</font>｜业务结果排名 47.6%｜<font color="#ca8a04">餐饮新签完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 0.0%</font>
+- <font color="#0f766e">📍 **津市**</font>｜业务结果排名 51.6%｜<font color="#ca8a04">餐饮新签完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 16.7%</font>
+- 做工方向（6 城通用）：<font color="#ca8a04">餐饮新签</font> 完成率普遍未过半（鼎城/常山/津市仍为 0），是离激励档最远的一块；对照奖励档参考线（开化 23.9%），武陵区 41.2% 已是距离最近的城
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/p2_kh.png)
+
+**摆脱负激励的城市（2 城）**
+
+- <font color="#b91c1c">📍 **衡阳合并经营 -289,139 元**</font>｜业务结果排名 80.6%｜<font color="#ca8a04">必打淬火完成率 0.0%</font> ／ <font color="#ca8a04">餐饮新签完成率 32.6%</font>
+- <font color="#b91c1c">📍 **上虞区 -221,311 元**</font>｜业务结果排名 80.8%｜<font color="#ca8a04">必打淬火完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 6.7%</font>
+- 做工方向（2 城通用）：当前卡在排名后段，先抓 <font color="#ca8a04">餐饮新签</font> 与 <font color="#ca8a04">零售新签养活</font> 把结果得分抬出罚款档
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/p2_hy.png)
+
+<font color="#1d4ed8">具体详情请点击看板：[👉 查看看板](https://xiaoxingcu.github.io/chengdai-2610-dashboard/)</font>
