@@ -14,9 +14,9 @@
 
 **冲激励的城市（6 城 · 当前零激励）**
 
-- <font color="#0f766e">📍 **武陵区**</font>｜业务结果排名 41.2%｜<font color="#ca8a04">必打淬火完成率 3.9%</font> ／ <font color="#ca8a04">餐饮新签完成率 4.8%</font>
+- <font color="#0f766e">📍 **武陵区**</font>｜业务结果排名 41.2%｜<font color="#ca8a04">必打淬火完成率 3.8%</font> ／ <font color="#ca8a04">餐饮新签完成率 4.8%</font>
 - <font color="#0f766e">📍 **嵊州**</font>｜业务结果排名 42.3%｜<font color="#ca8a04">零售新签养活完成率 7.1%</font> ／ <font color="#ca8a04">餐饮新签完成率 35.2%</font>
-- <font color="#0f766e">📍 **江山**</font>｜业务结果排名 54.0%｜<font color="#ca8a04">必打淬火完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 17.6%</font>
+- <font color="#0f766e">📍 **江山**</font>｜业务结果排名 54.1%｜<font color="#ca8a04">必打淬火完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 17.6%</font>
 - <font color="#0f766e">📍 **鼎城区**</font>｜业务结果排名 58.3%｜<font color="#ca8a04">餐饮新签完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 11.8%</font>
 - <font color="#0f766e">📍 **常山**</font>｜业务结果排名 47.6%｜<font color="#ca8a04">餐饮新签完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 0.0%</font>
 - <font color="#0f766e">📍 **津市**</font>｜业务结果排名 51.6%｜<font color="#ca8a04">餐饮新签完成率 0.0%</font> ／ <font color="#ca8a04">零售新签养活完成率 16.7%</font>
@@ -31,5 +31,13 @@
 - 做工方向（2 城通用）：当前卡在排名后段，先抓 <font color="#ca8a04">餐饮新签</font> 与 <font color="#ca8a04">零售新签养活</font> 把结果得分抬出罚款档
 
 ![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/p2_hy.png)
+
+**新增：城市测算模拟器**（分城市概览 → 城市测算页签）
+
+- 按10月考核规则搭建：拖动 7 个子项得分滑杆 → 实时重算业务结果得分 → 估算组内排名档 → 自动换算餐饮/零售点位与全月激励金额
+- 示例（衡阳合并经营）：当前得分 85.02｜排名 80.6%｜当前全月激励 -28.91 万（餐饮基数 7,228 万 × 罚点位 0.4%）｜零售豁免 100% 不计罚
+- 档位参考：TOP20-40% 奖 0.35%/1.50%（开化 23.9% 实测）；后10-20% 罚 0.40%/2.00%（衡阳·上虞实测）；档位阈值待10月正式点位表校准
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/p3_sim.png)
 
 <font color="#1d4ed8">具体详情请点击看板：[👉 查看看板](https://xiaoxingcu.github.io/chengdai-2610-dashboard/)</font>
