@@ -340,7 +340,8 @@ function calcSim() {
   const dMoney = total - sim.curInc;
   if (mEl) { mEl.textContent = '较当前 ' + (dMoney === 0 ? '0.00万' : fmtWan(dMoney)); mEl.className = 'sr-delta ' + (dMoney > 1 ? 'up' : dMoney < -1 ? 'down' : ''); }
 
-  set('simBreakdown', lines.length ? lines.join('<br>') : '当前档位无正/负激励点位，餐饮与零售金额均为 0。');
+  const brEl = document.getElementById('simBreakdown');
+  if (brEl) brEl.innerHTML = lines.length ? lines.join('<br>') : '当前档位无正/负激励点位，餐饮与零售金额均为 0。';
 
   const vd = document.getElementById('simVerdict');
   if (vd) {
