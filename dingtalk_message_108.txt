@@ -1,0 +1,27 @@
+## JBP考核播报 截止10月8日
+
+**（完善的看板待后续迭代）**
+
+<font color="#ea580c">**激励金额**</font>
+
+<font color="#0f766e">**嵊州 +163,044**</font>，<font color="#0f766e">**开化 +20,555**</font>，<font color="#b91c1c">**衡阳合并经营 -251,157**</font>
+
+<font color="#ea580c">**警告**</font>
+
+<font color="#ea580c">**上虞区：零售过程警告：警告**</font>
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/bc_overview.png)
+
+**业务结果达成**
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/bc_biz.png)
+
+**餐饮过程达成**
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/bc_cater.png)
+
+**零售过程达成**
+
+![](https://xiaoxingcu.github.io/chengdai-2610-dashboard/bc_retail.png)
+
+<font color="#1d4ed8">具体详情请点击看板：[👉 查看看板](https://xiaoxingcu.github.io/chengdai-2610-dashboard/)</font>
